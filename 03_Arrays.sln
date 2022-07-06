@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ZigZagArrays", "03_Arrays\3_ZigZagArrays.csproj", "{C0B648F8-F812-44E1-B93C-D0E16178EDE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_ArrayRotation", "4_ArrayRotation\4_ArrayRotation.csproj", "{A3458B6B-E652-4428-A53F-C72ADAF4D26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B648F8-F812-44E1-B93C-D0E16178EDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B648F8-F812-44E1-B93C-D0E16178EDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B648F8-F812-44E1-B93C-D0E16178EDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B648F8-F812-44E1-B93C-D0E16178EDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3458B6B-E652-4428-A53F-C72ADAF4D26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3458B6B-E652-4428-A53F-C72ADAF4D26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3458B6B-E652-4428-A53F-C72ADAF4D26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3458B6B-E652-4428-A53F-C72ADAF4D26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFFBF67-4DB7-446F-8F01-49DB5CA86408}
+	EndGlobalSection
+EndGlobal
